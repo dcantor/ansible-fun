@@ -1,0 +1,14 @@
+---
+cool_things:
+  - car
+  - boat
+  - house
+
+array_of_things:
+  stuff:
+    node: 1
+    place: here
+  things:
+     node: 2
+     place: there
+
